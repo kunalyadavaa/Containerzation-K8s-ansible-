@@ -9,6 +9,7 @@ This documentation describes how a homelab environment was configured using **Do
 ---
 
 ## 📦 1. Containerization with Docker
+<img width="1247" height="672" alt="Screenshot_20" src="https://github.com/user-attachments/assets/33b1d142-fd69-472e-bab6-a8e364c1b02a" />
 
 ### 🔹 Purpose
 
@@ -48,6 +49,8 @@ services:
 
 ## ☸️ 2. Kubernetes (K8s) - Container Orchestration
 
+<img width="1281" height="754" alt="Screenshot_18" src="https://github.com/user-attachments/assets/df4381b9-bf13-4135-ac43-d4e17d76a7d6" />
+
 ### 🔹 Purpose
 
 * Manage and scale container workloads across multiple nodes.
@@ -80,6 +83,8 @@ kubectl expose pod nginx --type=NodePort --port=80
 ---
 
 ## ⚙️ 3. Infrastructure Automation with Ansible
+
+<img width="519" height="604" alt="Screenshot_17" src="https://github.com/user-attachments/assets/5f3279b9-b6a0-4a12-bfc9-fa4767e0df96" />
 
 ### 🔹 Purpose
 
